@@ -1,0 +1,37 @@
+Bienvenidos a MEMORY:
+
+
+
+
+Este es un juego de memoria para niños de 3 a 5 años(No te preocupes que en realidad cualquiera puede jugar a este juego, el cerebro es el músculo más importante),
+en el que el niño tiene que memorizar donde se encuentran unos elementos en un tiempo determinado, transcurrido el cual, se le preguntará donde se encuentra
+cada elemento individualmente (de uno en uno).
+
+
+
+Los elementos a memorizar, pueden ser los números del 1 al 10, las vocales o las formas geométricas básicas (cuadrado, rectángulo, triángulo, círculo y óvalo).
+Nada más empezar se te solicitará que elijas uno de los elementos (números, vocales o formas geométricas) para recordar.
+
+
+A continuación, los elementos del tipo seleccionado aparecerán ocultos tras botones (un botón por cada elemento).
+
+
+
+
+El niño dispondrá de 15 segundos para memorizar la posición que ocupan los distintos elementos.
+Para “ver” cada elemento, bastará con pasar el ratón sobre el botón correspondiente, en este tiempo de memorizar.
+
+
+Una vez transcurrido el tiempo de memorización, se preguntará al niño por un elemento concreto, y éste tendrá que adivinar o mejor dicho donde está, haciendo
+clic en el botón que “crea” que es. El juego preguntará por todos y cada uno de los elementos elegidos.
+Si acierta el elemento que “toca” se pasará al siguiente, sino se empezará desde el primero (siguiendo la misma serie).
+
+
+
+
+
+La meta es acertar todos los elementos en el menor tiempo posible. Por eso, cuando empieza el proceso de “adivinar las ubicaciones de cada elemento”, se iniciará
+un cronómetro que no parará hasta que el niño las acierte todas. Al terminar se te informará del tiempo que has tardado y de la posición global que ocupas.
+
+
+Ahora sólo queda divertirse.
